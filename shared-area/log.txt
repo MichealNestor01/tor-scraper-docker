@@ -1,0 +1,13 @@
+Program started | 2022-09-01 08:55:26.040546
+Scrapping data from https://www.google.com | 2022-09-01 08:55:26.040648
+Succesfully Scraped: www.google.com | 2022-09-01 08:55:31.896111
+Scrapping data from http://6nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion/ | 2022-09-01 08:55:31.897055
+Succesfully Scraped: nhmgdpnyoljh5uzr5kwlatx2u3diou4ldeommfxjz3wkhalzgjqxzqd.onion | 2022-09-01 08:55:39.475302
+Scrapping data from https://check.torproject.org | 2022-09-01 08:55:39.475621
+Succesfully Scraped: check.torproject.org | 2022-09-01 08:55:45.523851
+Program started | 2022-09-01 08:59:01.182601
+Scrapping data from https://news.bbc.com | 2022-09-01 08:59:01.182780
+Failed with message: ERROR: UNABLE TO REACH https://news.bbc.com | 2022-09-01 08:59:16.059095
+Program started | 2022-09-01 09:01:30.089614
+Scrapping data from https://www.bbc.co.uk/news | 2022-09-01 09:01:30.089713
+Succesfully Scraped: www.bbc.co.uk | 2022-09-01 09:01:45.456818
