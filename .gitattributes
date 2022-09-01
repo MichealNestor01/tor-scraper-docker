@@ -1,0 +1,2 @@
+*.js liquist-vendored
+*.js linguist-detectable=false
